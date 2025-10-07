@@ -2,6 +2,7 @@
 
 A simple and interactive Number Guessing Game built using HTML, CSS, and JavaScript.
 
+
 🚀 Features:
 
 🔢 Generates a random number between 1 and 10.
@@ -13,23 +14,7 @@ A simple and interactive Number Guessing Game built using HTML, CSS, and JavaScr
 🎉 Displays Win/Lose messages.
 
 🔄 Includes a Play Again button to restart the game.
-
-🖼️ Demo
-
-🛠️ Technologies Used:
-
-HTML → Structure of the game.
-
-CSS → Styling and Layout.
-
-JavaScript → Game Logic & Interactivity.
-
-📂 Project Structure:
-Guess-The-Number-Game/
-│── index.html     
-│── style.css       
-│── js.js       
-│── README.md       
+ 
 
 ⚡ How to Play:
 
@@ -43,9 +28,3 @@ If you guess correctly → 🎉 You Win!
 
 If you run out of attempts → 💀 Game Over!
 
-
-
-
-📜 License
-
-This project is open-source and available under the MIT License.
